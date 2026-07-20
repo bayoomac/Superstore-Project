@@ -103,7 +103,7 @@ Interactive Filters
 
 * Region
 * Segment
-* Order Date Timeline
+* Order Date Timeline (2014 to 2017)
 * Category
 
 
@@ -113,7 +113,7 @@ Interactive Filters
 * The West region generated the highest sales
 * Technology was the most profitable product category for the superstore
 * Canon imageCLASS 2200 Advanced copier was the highest-selling product.
-* Sales increased significantly at the final quarter of the year.
+* Across the 2014 to 2017 period, sales generally peaked toward the end of the year, suggesting a recurring seasonal sales pattern.
 * California recorded the highest number of sales among all states
 * Consumers generated more revenue for the superstore compared to the other segments
 
